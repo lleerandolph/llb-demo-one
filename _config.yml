@@ -12,7 +12,7 @@ URL: https://lleerandolph.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /llb-demo
 # location of code, the full url to your github repository
-source-code: https://github.com/lleerandolph/llb-demo-one
+source-code: https://github.com/lleerandolph/llb-demo
 
 ##########
 # SITE SETTINGS
